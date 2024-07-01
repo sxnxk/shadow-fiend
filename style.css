@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+}
+header{
+    background-color: black;
+    display: flex;
+    height: 7em;
+}
+.header-text{
+    color: brown;
+    padding-left: 17em;
+    font-size: 2.9rem;
+}
+
+
+main{ 
+    background-image: url(img/sf.jpg);
+    display: flex;
+    background-repeat: no-repeat;
+    width: 200em;
+    height: 65em;
+   
+
+}
+.arcana{
+    height: 65em;
+}
+.main-text{
+    color: rgb(255, 255, 255);
+    font-family:fantasy;
+    font-size:xx-large;
+    text-align: center;
+    margin-top: 12em;  
+    
+}
+
+footer{
+   
+}
+
